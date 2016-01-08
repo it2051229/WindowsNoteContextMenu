@@ -1,0 +1,9 @@
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\bin\Debug\NoteContextMenu.exe.config
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\bin\Debug\NoteContextMenu.exe
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\bin\Debug\NoteContextMenu.pdb
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\obj\Debug\NoteContextMenu.csprojResolveAssemblyReference.cache
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\obj\Debug\NoteContextMenu.FormMain.resources
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\obj\Debug\NoteContextMenu.Properties.Resources.resources
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\obj\Debug\NoteContextMenu.csproj.GenerateResource.Cache
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\obj\Debug\NoteContextMenu.exe
+C:\Users\it2051229\Desktop\NoteContextMenu\NoteContextMenu\obj\Debug\NoteContextMenu.pdb
